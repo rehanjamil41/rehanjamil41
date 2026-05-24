@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20Rehan Jamil%20I'm%20Rehan%20Jamil&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&descendant=true" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋%20I'm%20Rehan%20Jamil&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&descendant=true" alt="header" />
 </div>
 
 
@@ -34,8 +34,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehanjamil41&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
 </div>
 
 <div align="center">
