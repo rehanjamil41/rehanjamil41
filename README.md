@@ -15,12 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=rj41-w2&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj41-w2&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rj41-w2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj41-w2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
-</div>
-
 <br/>
 
 ## 👨‍💻 About Me
@@ -36,15 +30,6 @@ currently_learning:
 motto: "Ek naya concept roz — consistency is the key 🔑"
 ```
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS` |
-| **Backend** | `Node.js` `Express` `MongoDB` `PostgreSQL` `REST APIs` |
-| **Data/Tools** | `Python` `MySQL` `Excel` `Git` `GitHub` `VS Code` `Docker` |
-| **Learning** | `TypeScript` `GraphQL` `AWS` `Kubernetes` `System Design` |
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
@@ -54,12 +39,6 @@ motto: "Ek naya concept roz — consistency is the key 🔑"
 | **Project Name** | Short description of what it does | `Python` `FastAPI` `Docker` | [Repo](https://github.com/rj41-w2) |
 
 > 💡 **Tip:** Replace above with your actual top 3-4 projects. Add live demo links if deployed!
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rj41-w2&theme=tokyo-night&hide_border=true" alt="activity graph" />
-</div>
 
 ## 🎯 Current Focus
 
@@ -93,6 +72,12 @@ motto: "Ek naya concept roz — consistency is the key 🔑"
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rj41-w2/count.svg" alt="Visitor Count" />
-  <br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj41-w2&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rj41-w2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj41-w2&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
+</div>
+
+<br/>
   <sub>Made with ❤️ by <a href="https://github.com/rj41-w2">Rehan Jamil</a> • © 2026</sub>
 </div>
